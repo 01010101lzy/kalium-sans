@@ -1,0 +1,105 @@
+SplineFontDB: 3.2
+FontName: KaliumSans
+FullName: KaliumSans
+FamilyName: KaliumSans
+Weight: Bold
+Copyright: Copyright (c) 2019, plok3
+UComments: "2019-12-7: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 894 1131148863 28429]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1575724432
+ModificationTime: 1575725387
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 48 16 4
+BeginPrivate: 0
+EndPrivate
+BeginChars: 256 2
+
+StartChar: K
+Encoding: 75 75 0
+Width: 710
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+528 800 m 1
+ 228 290 l 1
+ 528 -200 l 1
+ 708 -200 l 1
+ 396 290 l 1
+ 708 800 l 1
+ 528 800 l 1
+0 800 m 1
+ 0 -200 l 1
+ 148 -200 l 1
+ 148 800 l 1
+ 0 800 l 1
+EndSplineSet
+EndChar
+
+StartChar: A
+Encoding: 65 65 1
+Width: 838
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+698.477539062 120 m 1
+ 664 0 l 1
+ 364 0 l 1
+ 398.477539062 120 l 1
+ 698.477539062 120 l 1
+333.817382812 800 m 1
+ 405.817382812 800 l 0
+ 489.043945312 800 l 1
+ 710.2890625 153 l 0
+ 802.275390625 -116 l 0
+ 831 -200 l 1
+ 675 -200 l 1
+ 528.973632812 228 l 0
+ 333.817382812 800 l 1
+333.043945312 800 m 1
+ 405.043945312 800 l 0
+ 489.043945312 800 l 1
+ 159 -199 l 1
+ 3 -199 l 1
+ 333.043945312 800 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
